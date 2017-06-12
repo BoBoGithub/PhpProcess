@@ -1,16 +1,5 @@
 # PhpProcess
 The Process component executes commands in sub-processes. -- PHP
 
+备注：当前代码是从Composer中抽出来的，具体使用方式请参考index.php文件的DEMO.
 
-/**************************************************************************
-
-  运行结果如下：  
-
-  bobo@migang:test$ /usr/local/php7/bin/php index.php <br>
-  Array<br>
-  (<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[0] => string(6) "7.0.12"<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[1] => string(19) "2017-06-12 06:41:54"<br>
-  )<br>
-<br>
-***************************************************************************/
